@@ -1,4 +1,4 @@
-![avatar](doodle.gif)
+![avatar](https://github.com/Swung0x48/Swung0x48/raw/master/doodle.gif)
 
 <p align="center">
 A cycler who goes off cycle.<br/>
