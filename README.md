@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Swung0x48/Swung0x48/raw/master/doodle.gif" alt="doodle" width="360" height="360">
+<img src="https://raw.githubusercontent.com/Swung0x48/Swung0x48/master/doodle.gif" alt="doodle" width="360" height="360">
 </div>
 
 
